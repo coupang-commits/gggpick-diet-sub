@@ -52,7 +52,7 @@ title = 'GGG Pick 다이어트'
 hasCJKLanguage = true
 buildFuture = true
 buildDrafts = true
-disableKinds = ["RSS", "sitemap"]
+disableKinds = ["RSS"]
 
 [taxonomies]
   tag = "tags"
